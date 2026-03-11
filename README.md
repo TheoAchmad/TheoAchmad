@@ -16,4 +16,7 @@ Seorang siswa **Pengembangan Perangkat Lunak dan Gim (PPLG)** dari Banyuwangi ya
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoAchmad&layout=compact&theme=radical)
 
 ---
-📫 **Hubungi saya:** [Link LinkedIn atau Email]
+### 📫 Mari Terhubung:
+- 📍 Berdomisili di: **Banyuwangi, Jawa Timur**
+- 🔗 LinkedIn: [Theo Achmad Alfareza](https://www.linkedin.com/in/theo-achmad-834795342/)
+- 📧 Email: [Masukkan Email Kamu]
