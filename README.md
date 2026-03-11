@@ -19,4 +19,4 @@ Seorang siswa **Pengembangan Perangkat Lunak dan Gim (PPLG)** dari Banyuwangi ya
 ### 📫 Mari Terhubung:
 - 📍 Berdomisili di: **Banyuwangi, Jawa Timur**
 - 🔗 LinkedIn: [Theo Achmad Alfareza](https://www.linkedin.com/in/theo-achmad-834795342/)
-- 📧 Email: [Masukkan Email Kamu]
+- 📧 Email: theosmk20@gmail.com
