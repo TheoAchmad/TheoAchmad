@@ -8,7 +8,7 @@ Seorang siswa **Pengembangan Perangkat Lunak dan Gim (PPLG)** dari Banyuwangi ya
 - **Tools:** VS Code, Git, Android Studio, Cinema 4D (jika ada)
 
 ### 🚀 Proyek Sedang Berjalan
-- **Oxygen Protocol:** Sebuah game survival bertema coding (Unity).
+- **SIAP - Sistem IoT Ayam Pintar:** Sebuah Projek kandang ayam pintar berbasis IoT.
 - **Monitor Keuangan:** Aplikasi pencatat finansial berbasis Flutter.
 
 ### 📊 GitHub Stats
